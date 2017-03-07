@@ -1,4 +1,5 @@
 %%% HRI 7633 CODE FOR SALIENCY MODEL %%%
+%AUTHOR: LAKSHMI NAIR
 
 global Key_Press
 Key_Press = 0;
