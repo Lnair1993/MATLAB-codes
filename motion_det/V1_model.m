@@ -1,4 +1,5 @@
 % The response of V1 and MT neurons for a sequence of images presented in succession
+%AUTHOR: LAKSHMI NAIR
 
 %Step 1: Compute x, y image derivatives for each frame: Ix, Iy
 %Step 2: Compute temporal image (frame at time t+1 - frame at time t): It
