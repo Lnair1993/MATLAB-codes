@@ -28,7 +28,7 @@ if channels == 3
 end
 
 It0 = img;
-It0 = imgaussfilt(It0,2);
+It0 = imgaussfilt(It0,2); %Filter image
 %Initialize output arrays
 It_array = zeros(rows,cols,num_images-1);
 Ix_array = zeros(rows,cols,num_images-1);
